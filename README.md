@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramphele John Makgakga
-- 👀 I’m interested in Data and Software Development
+- 👀 I’m interested in Data analysis and predictions, Machine learning , AI , data engineering and Software Development
 - 🌱 I’m currently learning cloud
 - 💞️ I’m looking to collaborate on Software Development Projects that are driven by Data and AI
 - 📫 How to reach me Email: johnmakgakgadev@gmail.com , Contact : +27 7 11 31 62 12 
